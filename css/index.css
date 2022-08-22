@@ -1,0 +1,40 @@
+body{
+  margin: 0;
+  height: 100%;
+}
+
+.h6{
+  margin-left: 45px;
+  margin-right: 45px;
+  padding-top: 20px;
+  color: #ff7b25;
+}
+      
+#container-imagem{
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+  /* adicionando imagem de fundo */
+  background: url('../images/bg.png');
+  background-size: cover;
+  background-position: bottom center;
+  background-repeat: no-repeat;
+  margin-left: -64px;
+  margin-right: -64px;
+}
+
+#logo_sib{
+  margin-top: 40px;
+  margin-right: 80px;
+  margin-left: 80px;
+  width: 200px;
+  height: 100px;
+}
+
+#inputs-labels{
+  margin-top: 80px;
+}
+
+#footer{
+  margin-top: 310px;
+}

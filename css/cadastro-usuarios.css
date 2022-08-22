@@ -1,0 +1,9 @@
+body{
+  background-color: #fff;
+}
+
+table#listar-usuario.dataTable thead{
+  background-color: #00ffff;
+  color: #fff;
+  font-weight: bolder;
+}
